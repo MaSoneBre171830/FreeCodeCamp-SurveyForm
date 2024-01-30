@@ -1,0 +1,104 @@
+body {
+	text-align: center;
+	margin: auto;
+	font-family: sans-serif;
+	color: #F8F8FF;
+	height: ;
+	width: ;
+	font-size: 18px;
+	background-image: url(https://imageio.forbes.com/specials-images/dam/imageserve/1180183927/960x0.jpg?format=jpg&width=960);
+	background-size: cover;
+
+
+
+
+}
+
+.survey {
+	width: 675px;
+	height: auto;
+	margin: auto;
+	background-color: #273746;
+	border-radius: 6px;
+	
+}
+
+.form-group {
+	display: block;
+
+}
+
+label, input, p{
+	display: block;
+	text-align: left;
+}
+ 
+.user-input-radio, 
+.input-checkbox  {
+	display: inline-block;
+	margin:  1rem 1rem 1rem 1rem;
+	width: 20px;
+	height: 20px;
+	padding
+}	
+
+
+
+input, select {
+	height: 30px;
+	width: 600px;
+	margin-top: 0.7rem;
+	margin-bottom: 1.5rem;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 5px;
+
+
+}
+
+
+
+h1 {
+	margin-top: 70
+	px;
+}
+
+.description {
+	text-align: center;
+}
+
+hr {
+	border-color: rgb(72, 61, 139);
+}
+
+label, p{
+	margin-top: auto;
+	margin-left: 2.1rem;
+	margin-right: auto;
+	margin-bottom: auto;
+
+
+}	
+ button{
+ 	height: 30px;
+ 	width: 600px;
+ 	margin-top: 2rem;
+ 	margin-bottom: 3rem;
+ 	margin-left: auto;
+ 	margin-right: auto;
+ 	background-color: #66CDAA;
+    
+ }
+
+ button:hover {
+ 	background-color: #3CB371 ;
+ }
+
+ button:active {
+ 	background-color: whitesmoke;
+ }
+ 
+ textarea {
+ 	width: 600px;
+ 	height: 60px;
+ }
